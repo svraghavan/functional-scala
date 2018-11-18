@@ -10,7 +10,7 @@ object types {
   //
   // List all values of the type `Unit`.
   //
-  val UnitValues: Set[Unit] = ???
+  val UnitValues: Set[Unit] = Set(Unit) 
 
   //
   // EXERCISE 2
